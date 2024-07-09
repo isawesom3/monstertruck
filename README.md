@@ -14,9 +14,9 @@ When you start you'll be moving, and there are obstacles you can jump over by pr
 
 the two URLs down there are pictures
 
-(https://github.com/isawesom3/monstertruck/assets/173570795/635a2217-da69-43b9-a85c-a2d8052c4394)
+https://github.com/isawesom3/monstertruck/assets/173570795/635a2217-da69-43b9-a85c-a2d8052c4394
 
-(https://github.com/isawesom3/monstertruck/assets/173570795/fb022aa9-e562-4cbf-9857-8528a3d99116)
+https://github.com/isawesom3/monstertruck/assets/173570795/fb022aa9-e562-4cbf-9857-8528a3d99116
 
 
 ## Blocks preview
