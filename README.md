@@ -13,6 +13,7 @@
 When you start you'll be moving, and there are obstacles you can jump over by pressing space or A.
 
 
+
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
