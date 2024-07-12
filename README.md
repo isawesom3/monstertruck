@@ -8,6 +8,8 @@
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/isawesom3/monstertruck** and click import
 
+![Screenshot 2024-07-09 7 50 12 PM](https://github.com/isawesom3/monstertruck/assets/173570795/635a2217-da69-43b9-a85c-a2d8052c4394)
+
 ## Instructions
 
 When you start you'll be moving, and there are obstacles you can jump over by pressing space or A.
