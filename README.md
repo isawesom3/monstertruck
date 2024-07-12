@@ -12,7 +12,7 @@
 
 When you start you'll be moving, and there are obstacles you can jump over by pressing space or A.
 
-the two URLs down there are pictures
+
 
 ![Screenshot 2024-07-09 7 47 59 PM](https://github.com/isawesom3/monstertruck/assets/173570795/fb022aa9-e562-4cbf-9857-8528a3d99116)
 
